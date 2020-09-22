@@ -10,7 +10,7 @@
 
 * Refactored the code.
 
-* Updated example to include using an externally controller stepper.
+* Updated example to include using an externally controlled stepper.
 
 * Documentation improvements.
 
